@@ -50,5 +50,5 @@ Values
 ("Shephalika",15,3),
 ("Ankita",15,2),
 ("Pratima",11,2);
--- drop table depertment_foreign_child;
+
 
